@@ -22,4 +22,5 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 
 ### Generation Tools
 - [KSS](https://github.com/kneath/kss)
+- [Pattern Lab](http://patternlab.io/)
 - [Styledocco](https://github.com/jacobrask/styledocco)
