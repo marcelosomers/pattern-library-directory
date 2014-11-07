@@ -25,3 +25,9 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [KSS](https://github.com/kneath/kss)
 - [Pattern Lab](http://patternlab.io/)
 - [Styledocco](https://github.com/jacobrask/styledocco)
+
+### How We Do CSS
+- [GitHub](http://markdotto.com/2014/07/23/githubs-css/)
+- [Ghost](http://dev.ghost.org/css-at-ghost/)
+- [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/)
+- [Medium](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
