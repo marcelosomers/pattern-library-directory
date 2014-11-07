@@ -20,6 +20,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [Responsive Patterns by Brad Frost](http://bradfrost.github.io/this-is-responsive/patterns.html)
 - [Starbucks](http://www.starbucks.com/static/reference/styleguide/)
 - [Yahoo](https://developer.yahoo.com/ypatterns/)
+- [Yelp](http://www.yelp.com/styleguide)
 
 ### Generation Tools
 - [KSS](https://github.com/kneath/kss)
