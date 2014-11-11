@@ -18,6 +18,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [MailChimp](http://ux.mailchimp.com/patterns)
 - [Pears](http://pea.rs/)
 - [Responsive Patterns by Brad Frost](http://bradfrost.github.io/this-is-responsive/patterns.html)
+- [Salesforce](http://sfdc-styleguide.herokuapp.com)
 - [Starbucks](http://www.starbucks.com/static/reference/styleguide/)
 - [Yahoo](https://developer.yahoo.com/ypatterns/)
 - [Yelp](http://www.yelp.com/styleguide)
