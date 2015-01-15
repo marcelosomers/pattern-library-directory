@@ -24,13 +24,17 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [Yahoo](https://developer.yahoo.com/ypatterns/)
 - [Yelp](http://www.yelp.com/styleguide)
 
+### How We Do CSS
+- [Buffer](http://blog.brianlovin.com/buffers-css/)
+- [CodePen](http://codepen.io/chriscoyier/blog/codepens-css)
+- [Ghost](http://dev.ghost.org/css-at-ghost/)
+- [GitHub](http://markdotto.com/2014/07/23/githubs-css/)
+- [Groupon](http://mikeaparicio.com/2014/08/10/css-at-groupon/)
+- [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/)
+- [Medium](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
+- [Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/)
+
 ### Generation Tools
 - [KSS](https://github.com/kneath/kss)
 - [Pattern Lab](http://patternlab.io/)
 - [Styledocco](https://github.com/jacobrask/styledocco)
-
-### How We Do CSS
-- [GitHub](http://markdotto.com/2014/07/23/githubs-css/)
-- [Ghost](http://dev.ghost.org/css-at-ghost/)
-- [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/)
-- [Medium](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
