@@ -33,6 +33,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/)
 - [Medium](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
 - [Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/)
+- *[CSS Tricks Summary](http://css-tricks.com/css/)*
 
 ### Generation Tools
 - [KSS](https://github.com/kneath/kss)
