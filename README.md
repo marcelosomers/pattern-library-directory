@@ -27,6 +27,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 ### How We Do CSS
 - [Buffer](http://blog.brianlovin.com/buffers-css/)
 - [CodePen](http://codepen.io/chriscoyier/blog/codepens-css)
+- [Etsy](https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale)
 - [Ghost](http://dev.ghost.org/css-at-ghost/)
 - [GitHub](http://markdotto.com/2014/07/23/githubs-css/)
 - [Groupon](http://mikeaparicio.com/2014/08/10/css-at-groupon/)
