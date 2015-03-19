@@ -15,6 +15,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [Code for America](http://codeforamerica.clearleft.com/)
 - [DoSomething.org](http://dosomething.github.io/neue/)
 - [GitHub](https://github.com/styleguide)
+- [Heroku](http://purple.herokuapp.com/)
 - [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/)
 - [MailChimp](http://ux.mailchimp.com/patterns)
 - [Pears](http://pea.rs/)
