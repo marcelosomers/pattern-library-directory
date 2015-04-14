@@ -12,6 +12,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [BBC](http://www.bbc.co.uk/gel)
 - [Bootstrap](http://twitter.github.com/bootstrap/)
 - [Buffer](https://bufferapp.com/style-guide)
+- [CodePen](http://codepen.io/guide/)
 - [Code for America](http://codeforamerica.clearleft.com/)
 - [DoSomething.org](http://dosomething.github.io/neue/)
 - [GitHub](https://github.com/styleguide)
