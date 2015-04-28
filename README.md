@@ -15,6 +15,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [CodePen](http://codepen.io/guide/)
 - [Code for America](http://codeforamerica.clearleft.com/)
 - [DoSomething.org](http://dosomething.github.io/neue/)
+- [Dubizzle](http://dubizzle.uno/)
 - [GitHub](https://github.com/styleguide)
 - [Greenpeace](http://ggw-prototype.goalgorilla.com/)
 - [Heroku](http://purple.herokuapp.com/)
