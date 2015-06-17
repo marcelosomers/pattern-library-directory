@@ -16,6 +16,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [Code for America](http://codeforamerica.clearleft.com/)
 - [DoSomething.org](http://dosomething.github.io/neue/)
 - [Dubizzle](http://dubizzle.uno/)
+- [Envato Market](https://market.styleguide.envato.com/)
 - [GitHub](https://github.com/styleguide)
 - [Greenpeace](http://ggw-prototype.goalgorilla.com/)
 - [Heroku](http://purple.herokuapp.com/)
