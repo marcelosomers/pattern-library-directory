@@ -17,7 +17,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [DoSomething.org](http://dosomething.github.io/neue/)
 - [Dubizzle](http://dubizzle.uno/)
 - [Envato Market](https://market.styleguide.envato.com/)
-- [GitHub](https://github.com/styleguide)
+- [GitHub](http://primercss.io/)
 - [Greenpeace](http://ggw-prototype.goalgorilla.com/)
 - [Heroku](http://purple.herokuapp.com/)
 - [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/)
