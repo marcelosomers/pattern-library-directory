@@ -24,7 +24,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [MailChimp](http://ux.mailchimp.com/patterns)
 - [Pears](http://pea.rs/)
 - [Responsive Patterns by Brad Frost](http://bradfrost.github.io/this-is-responsive/patterns.html)
-- [Salesforce](http://sfdc-styleguide.herokuapp.com)
+- [Salesforce](http://www.lightningdesignsystem.com/)
 - [Starbucks](http://www.starbucks.com/static/reference/styleguide/)
 - [Ushahidi](http://github.ushahidi.org/platform-pattern-library/)
 - [Walmart](http://walmartlabs.github.io/web-style-guide/)
