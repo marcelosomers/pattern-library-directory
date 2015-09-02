@@ -20,6 +20,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [GitHub](http://primercss.io/)
 - [Greenpeace](http://ggw-prototype.goalgorilla.com/)
 - [Heroku](http://purple.herokuapp.com/)
+- [Intuit](http://harmony.intuit.com/)
 - [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/)
 - [MailChimp](http://ux.mailchimp.com/patterns)
 - [Pears](http://pea.rs/)
