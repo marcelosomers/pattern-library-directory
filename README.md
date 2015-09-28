@@ -28,6 +28,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [Salesforce](http://www.lightningdesignsystem.com/)
 - [Starbucks](http://www.starbucks.com/static/reference/styleguide/)
 - [Ushahidi](http://github.ushahidi.org/platform-pattern-library/)
+- [US Government](https://playbook.cio.gov/designstandards/)
 - [Walmart](http://walmartlabs.github.io/web-style-guide/)
 - [Yahoo](https://developer.yahoo.com/ypatterns/)
 - [Yelp](http://www.yelp.com/styleguide)
