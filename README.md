@@ -8,6 +8,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 
 #### The List
 - [A List Apart](http://patterns.alistapart.com/)
+- [Atlassian](https://design.atlassian.com/product/)
 - [Bancomail](http://elrumordelaluz.github.io/newbancomail/)
 - [BBC](http://www.bbc.co.uk/gel)
 - [Bootstrap](http://twitter.github.com/bootstrap/)
@@ -17,6 +18,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [DoSomething.org](http://dosomething.github.io/neue/)
 - [Dubizzle](http://dubizzle.uno/)
 - [Envato Market](https://market.styleguide.envato.com/)
+- [FutureLearn](https://www.futurelearn.com/pattern-library)
 - [GitHub](http://primercss.io/)
 - [Greenpeace](http://ggw-prototype.goalgorilla.com/)
 - [Heroku](http://purple.herokuapp.com/)
@@ -24,6 +26,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/)
 - [MailChimp](http://ux.mailchimp.com/patterns)
 - [Pears](http://pea.rs/)
+- [Pivotal](http://styleguide.pivotal.io)
 - [Responsive Patterns by Brad Frost](http://bradfrost.github.io/this-is-responsive/patterns.html)
 - [Salesforce](http://www.lightningdesignsystem.com/)
 - [Starbucks](http://www.starbucks.com/static/reference/styleguide/)
