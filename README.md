@@ -18,6 +18,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [DoSomething.org](http://dosomething.github.io/neue/)
 - [Dubizzle](http://dubizzle.uno/)
 - [Envato Market](https://market.styleguide.envato.com/)
+- [ExpressionEngine](https://ellislab.com/style-guide)
 - [FutureLearn](https://www.futurelearn.com/pattern-library)
 - [GitHub](http://primercss.io/)
 - [Greenpeace](http://ggw-prototype.goalgorilla.com/)
