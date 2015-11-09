@@ -31,6 +31,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [Pivotal](http://styleguide.pivotal.io)
 - [Responsive Patterns by Brad Frost](http://bradfrost.github.io/this-is-responsive/patterns.html)
 - [Salesforce](http://www.lightningdesignsystem.com/)
+- [Sass](http://sass-lang.com/styleguide)
 - [Starbucks](http://www.starbucks.com/static/reference/styleguide/)
 - [Ushahidi](http://github.ushahidi.org/platform-pattern-library/)
 - [US Government](https://playbook.cio.gov/designstandards/)
