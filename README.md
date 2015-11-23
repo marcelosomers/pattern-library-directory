@@ -15,6 +15,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [Buffer](https://bufferapp.com/style-guide)
 - [CodePen](http://codepen.io/guide/)
 - [Code for America](http://codeforamerica.clearleft.com/)
+- [Consumer Financial Protection Bureau](https://cfpb.github.io/)
 - [DoSomething.org](http://dosomething.github.io/neue/)
 - [Dubizzle](http://dubizzle.uno/)
 - [Dropbox](http://dropbox.github.io/scooter/index.html)
