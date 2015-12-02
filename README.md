@@ -13,6 +13,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [BBC](http://www.bbc.co.uk/gel)
 - [Bootstrap](http://twitter.github.com/bootstrap/)
 - [Buffer](https://bufferapp.com/style-guide)
+- [Buzzfeed](http://solid.buzzfeed.com/)
 - [CodePen](http://codepen.io/guide/)
 - [Code for America](http://codeforamerica.clearleft.com/)
 - [Consumer Financial Protection Bureau](https://cfpb.github.io/)
