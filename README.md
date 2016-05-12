@@ -29,6 +29,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/)
 - [MailChimp](http://ux.mailchimp.com/patterns)
 - [NC.gov](http://digitalstyle.nc.gov/)
+- [Office UI Fabric](http://dev.office.com/fabric/)
 - [Pears](http://pea.rs/)
 - [Pivotal](http://styleguide.pivotal.io)
 - [Responsive Patterns by Brad Frost](http://bradfrost.github.io/this-is-responsive/patterns.html)
