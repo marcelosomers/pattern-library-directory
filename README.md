@@ -41,6 +41,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [US Government](https://playbook.cio.gov/designstandards/)
 - [USA Jobs](http://usajobs.github.io/design-system/) (an extension of the US Government Design Standards)
 - [Walmart](http://walmartlabs.github.io/web-style-guide/)
+- [Westpac GEL](https://gel.westpacgroup.com.au/) (Australian banking group)
 - [Yahoo](https://developer.yahoo.com/ypatterns/)
 - [Yelp](http://www.yelp.com/styleguide)
 
