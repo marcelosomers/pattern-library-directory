@@ -29,6 +29,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [Intuit](http://harmony.intuit.com/)
 - [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/)
 - [MailChimp](http://ux.mailchimp.com/patterns)
+- [NetApp](http://luci.netapp.com/index.html)
 - [NC.gov](http://digitalstyle.nc.gov/)
 - [Office UI Fabric](http://dev.office.com/fabric/)
 - [Pears](http://pea.rs/)
