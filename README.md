@@ -39,6 +39,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [Sass](http://sass-lang.com/styleguide)
 - [Sipgate](https://www.sipgate.de/design/pattern-library)
 - [Starbucks](http://www.starbucks.com/static/reference/styleguide/)
+- [Ubuntu Vanilla](http://ubuntudesign.github.io/vanilla-framework/)
 - [Ushahidi](http://github.ushahidi.org/platform-pattern-library/)
 - [US Government](https://playbook.cio.gov/designstandards/)
 - [USA Jobs](http://usajobs.github.io/design-system/) (an extension of the US Government Design Standards)
