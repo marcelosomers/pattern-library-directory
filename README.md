@@ -25,6 +25,7 @@ I appreciate contributions to help keep this list up to date! If you have a patt
 - [ExpressionEngine](https://ellislab.com/style-guide)
 - [FutureLearn](https://www.futurelearn.com/pattern-library)
 - [GitHub](http://primercss.io/)
+- [GOV.UK](https://www.gov.uk/service-manual/design)
 - [Greenpeace](http://ggw-prototype.goalgorilla.com/)
 - [Intuit](http://harmony.intuit.com/)
 - [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/)
